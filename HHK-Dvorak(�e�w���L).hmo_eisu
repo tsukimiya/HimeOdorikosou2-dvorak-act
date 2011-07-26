@@ -1,0 +1,35 @@
+'HHK-Dvorak(親指鍵有).hmo_eisu
+
+'単一打鍵
+=
+-^]\	~［$~］$￥$‘
+qwertyuiop@[	’$~，$~．$p$y$f$g$c$r$l$~／$＝
+asdfghjkl;:	a$o$e$u$i$d$h$t$n$s$~－
+zxcvbnm,./	；$q$j$k$x$b$m$w$v$z
+
+'小指シフトで入れ替えを要するもの
+=H
+267890-^]\	＠$＾$＆$＊$（$）$｛$｝$｜$～
+qz[	”$：$＋
+:	＿
+
+'左親指シフトによる大文字
+=L
+qwert	”$＜$＞$Hp$Hy
+asdfg	Ha$Ho$He$Hu$Hi
+zxcvb	：$Hq$Hj$Hk$Hx
+1234567890-^]\	！$＠$＃$＄$％$＾$＆$＊$（$）$｛$｝$｜$～
+yuiop@[	Hf$Hg$Hc$Hr$Hl$？$＋
+hjkl;:	Hd$Hh$Ht$Hn$Hs$＿
+nm,./	Hb$Hm$Hw$Hv$Hz
+
+'右親指も定義しておけば姫踊子草かな配列から直接英字を打てる。
+=R
+qwert	”$＜$＞$Hp$Hy
+asdfg	Ha$Ho$He$Hu$Hi
+zxcvb	：$Hq$Hj$Hk$Hx
+1234567890-^]\	！$＠$＃$＄$％$＾$＆$＊$（$）$｛$｝$｜$～
+yuiop@[	Hf$Hg$Hc$Hr$Hl$？$＋
+hjkl;:	Hd$Hh$Ht$Hn$Hs$＿
+nm,./	Hb$Hm$Hw$Hv$Hz
+
